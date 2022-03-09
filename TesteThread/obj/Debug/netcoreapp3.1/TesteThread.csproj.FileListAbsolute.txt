@@ -1,0 +1,13 @@
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.exe
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.deps.json
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.runtimeconfig.json
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.runtimeconfig.dev.json
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.dll
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\bin\Debug\netcoreapp3.1\TesteThread.pdb
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.csproj.AssemblyReference.cache
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.AssemblyInfoInputs.cache
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.AssemblyInfo.cs
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.csproj.CoreCompileInputs.cache
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.dll
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.pdb
+C:\Users\rperetta\source\repos\TesteThread\TesteThread\obj\Debug\netcoreapp3.1\TesteThread.genruntimeconfig.cache
